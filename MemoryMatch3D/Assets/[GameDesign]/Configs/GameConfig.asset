@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92f682a6e61846859c34b2a582298254, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  <OpenItemsLimit>k__BackingField: 2
+  <SoftRewardSuccessCompare>k__BackingField: 100
+  <TimerIntroMainGame>k__BackingField: 3
+  <TimerWrongCompare>k__BackingField: 0.6
+  <TimerSuccessCompare>k__BackingField: 1
+  <VFXSuccessCompare>k__BackingField: {fileID: 6776072189357179556, guid: 4942eec8be71cf44ea666f2054bdb60f, type: 3}
+  _cellPrefab: {fileID: 1751465202191657204, guid: a4c3359dc762c45d892c882a0a4d0ae9, type: 3}
+  <TurnsByLevelLimit>k__BackingField: 5
+  <RandomizeByLevelRestart>k__BackingField: 0
+  biomeCatalogs:
+  - {fileID: 11400000, guid: ca8087b352f04a242a98dc8dcaeff517, type: 2}
+  <PokeballPrefab>k__BackingField: {fileID: 6841465341066353791, guid: 9947e42c54d6f2c46b58ebee6927a707, type: 3}

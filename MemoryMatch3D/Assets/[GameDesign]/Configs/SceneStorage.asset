@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b8432468bef4dc6b1b2d111ef71311d, type: 3}
+  m_Name: SceneStorage
+  m_EditorClassIdentifier: 
+  <Scenes>k__BackingField:
+  - SceneName: MOUSE
+    AnimalType: 0
+  - SceneName: CAT
+    AnimalType: 1
+  - SceneName: PARROT
+    AnimalType: 2
+  - SceneName: DOG
+    AnimalType: 3
+  - SceneName: GOLDFISH
+    AnimalType: 4
+  - SceneName: TORTOISE
+    AnimalType: 5
+  - SceneName: HAMSTER
+    AnimalType: 6

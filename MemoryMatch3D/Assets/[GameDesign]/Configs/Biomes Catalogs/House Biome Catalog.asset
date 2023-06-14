@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95b59ddfb9914778825ae2b01d7e8fea, type: 3}
+  m_Name: House Biome Catalog
+  m_EditorClassIdentifier: 
+  <BiomeType>k__BackingField: 0
+  biomeAnimalViews:
+  - {fileID: 2021251894732797023, guid: 7e175368dafabb54b829cd2855af0579, type: 3}
+  - {fileID: 2021251894732797023, guid: cfb2de2d27e5e0543afbe818162d5bcc, type: 3}
+  - {fileID: 2021251894732797023, guid: ff3da9bebed152248bd3a5d07d4c14f6, type: 3}
+  - {fileID: 2021251894732797023, guid: 5e99407a99ffb2f4a9b7db7833d83d89, type: 3}
+  - {fileID: 2021251894732797023, guid: 730363f2453f2fd439bd8138044d44d5, type: 3}
+  - {fileID: 2021251894732797023, guid: 30acb78bec852c246956579e4ef79ee6, type: 3}
+  - {fileID: 2021251894732797023, guid: fa98dffb9cb782a4d82e11dc301d4da1, type: 3}

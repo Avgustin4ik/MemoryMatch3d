@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be0b2c7697284ca8831fe0239a9cc591, type: 3}
+  m_Name: ShiftColumnComplicator
+  m_EditorClassIdentifier: 
+  RandomizeTarget: 1
+  IsRepeatable: 0
+  _repeatFrequency: 0
+  IsDirectionDefault: 1
+  _targetColumnIndex: 2

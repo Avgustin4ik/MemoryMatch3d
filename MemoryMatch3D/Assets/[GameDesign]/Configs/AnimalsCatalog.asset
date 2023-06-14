@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4caffabe4d9045a8b71823a22e9c03e0, type: 3}
+  m_Name: AnimalsCatalog
+  m_EditorClassIdentifier: 
+  pokeballsData:
+  - <PokeballView>k__BackingField: {fileID: 3842603203269218875, guid: 35af8338b8050aa4783d6752057b26b5, type: 3}
+    key: 
+    icon: {fileID: 0}
+  - <PokeballView>k__BackingField: {fileID: 942161245640592962, guid: 8de14f8c36a8feb41b022b5b5eae3bcf, type: 3}
+    key: 
+    icon: {fileID: 0}
